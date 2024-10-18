@@ -1,0 +1,10 @@
+[Trace Management]
+tracefile0 = CW308_STM32F4_TINYAES128C_2000_fixedkey_data\traces\config_2024.10.18-18.57.29_0.cfg
+enabled0 = True
+[ChipWhisperer]
+[[General Settings]]
+Project Name = Untitled
+Project File Version = 1.00
+Project Author = Unknown
+Program Name = ChipWhisperer
+Program Version = ""
